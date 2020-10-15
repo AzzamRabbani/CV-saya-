@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Page Title</title>
+	</head>
+	<body style="background:">
+		<h1 align="center">Curriculum Vitae</h1>
+		<hr>
+	    <h2><font size="4">BIODATA DIRI</font></h2>
+	    
+	    <p>Nama     : Azzam Rabbani</p>
+	    <p>TTL      : Jakarta, 30 Desember 2001</p>
+	    <p>Alamat   : Jl. Pembina Raya No.231 Rt.002/007</p>
+	    <p>Agama    : Islam</p>
+	    <p>Kelamin  : Pria</p>
+	    
+	    <h3><font size="4">BIODATA PENDIDIKAN</font></h3>
+	    
+	    <table border="1" cellpadding="5">
+	        <tr>
+	            <th>No.</th>
+	            <th>Tingkat</th>
+	            <th>Riwayat Pendidikan</th>
+	        </tr>
+	       <tr>
+	            <td>1.</td>
+	            <td>SD</td>
+	            <td>SDIT Thariq Bin Ziyad</td>
+	        </tr>
+	       <tr>
+	            <td>2.</td>
+	            <td>SMP</td>
+	            <td>SMPIT Thariq Bin Ziyad</td>
+	        </tr>
+	        <tr>
+	            <td>3.</td>
+	            <td>SMA</td>
+	            <td>SMAIT Bunyan Indonesia</td>
+	        </tr>
+	        <tr>
+	            <td>4.</td>
+	            <td>S1</td>
+	            <td>Teknik Informatika STT Terpadu Nurul Fikri</td>
+	        </tr>
+	    </table>
+	    
+	    <h4><font size="4">PENGALAMAN ORGANISASI</font></h4>
+	    
+	        <ul>
+	            <li>Sekretaris Osis</li>
+	            
+	        </ul>
+	    
+	    <h5><font size="4">HOBI</font></h5>
+	   
+	   <ul>
+	       <li>Futsal</li>
+	       <li>Nonton youtube</li>
+	       <li>Main game</li>
+	       
+	   </ul>
+	    
+	    <h6><font size="4">SOCIAL MEDIA</font></h6>
+	    
+	   <ul>
+	       <li>Instagram    : <a href="https://www.instagram.com/azm_rbn123">https://instagram.com/azm_rbn123</a></li>
+	       <li>Facebook     : <a href="https://web.facebook.com/azzam.rabbani.9484/">https://m.facebook.com/azzam.rabbani</a></li>
+	       <li>Email        : <a href="https://mail.google.com/mail/u/0/#inbox">azzam.hamadi46@gmail.com</a></li>
+	   </ul> 
+	</body>
+</html>
